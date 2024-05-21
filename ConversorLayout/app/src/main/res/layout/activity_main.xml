@@ -35,4 +35,12 @@
         android:gravity="center"
         android:text="R$"/>
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#8C6ACC"
+        android:textAlignment="center"
+        android:text="Alexandre Máximo - 03 - Turma 1203"
+        android:textSize="30dp"/>
+
 </LinearLayout>
